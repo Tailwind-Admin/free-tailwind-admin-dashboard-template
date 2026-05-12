@@ -161,5 +161,6 @@ Your support helps this project grow faster!
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Nextjs Project: [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template&root-directory=tailwind-admin-nextjs-free/package)
+[![Deploy to PandaStack](https://dashboard.pandastack.io/deploy-button.svg)](https://dashboard.pandastack.io/deploy?repo=Tailwind-Admin/free-tailwind-admin-dashboard-template&type=static&buildCmd=npm+run+build&outputDir=dist)
 
 
